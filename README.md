@@ -42,7 +42,10 @@ babershop/
 │   └── booking.py
 ├── main.py
 └── README.md
-![WhatsApp Image 2025-12-15 at 19 31 33](https://github.com/user-attachments/assets/3fc2cbe5-7277-465b-b3e8-1c5ef88f043e)
 
-![WhatsApp Image 2025-12-15 at 19 33 01](https://github.com/user-attachments/assets/d1ea2bf7-8cd2-4a3d-8e58-d15daa47152e)
+![WhatsApp Image 2025-12-15 at 19 31 33](https://github.com/user-attachments/assets/d0d49c26-ad80-4dc5-a283-1bcefb3e5ab3)
+
+![WhatsApp Image 2025-12-15 at 19 33 01](https://github.com/user-attachments/assets/b6460a8e-3da2-44c2-b7ae-72d0c1f8df3c)
+
+
 
