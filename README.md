@@ -2,6 +2,8 @@
 **Ujian Akhir Semester – Pemrograman Python**
 
 ---
+<img width="1355" height="764" alt="Cuplikan layar 2025-12-15 193123" src="https://github.com/user-attachments/assets/944bdccc-8e24-4dce-9463-349c88a3c3dd" />
+
 
 ## 📌 Deskripsi
 Sistem Booking Barbershop / Salon adalah aplikasi berbasis **Python (Command Line Interface)**  
